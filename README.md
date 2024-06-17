@@ -20,7 +20,7 @@ Linux:
     apt upgrade 
     
 
-    git clone
+    git clone https://github.com/ZFCk439/ip4log.git
     
 
     cd ip4log
@@ -40,6 +40,9 @@ Termux:
     pkg install git
     
 
+    git clone https://github.com/ZFCk439/ip4log.git
+
+    
     cd ip4log
     
 
